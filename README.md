@@ -26,12 +26,12 @@
 
 ## 1. Description <a id="chapter-001"></a>
 
-**Built for mission-critical use**: Miners, service providers, and exchanges need fast synchronisation and maximum uptime. Parity Ethereum provides the core infrastructure essential for speedy and reliable services.
+**Built for mission-critical use**: Miners, service providers, and exchanges need fast synchronization and maximum uptime. Parity Ethereum provides the core infrastructure, essential for speedy and reliable services.
 
-- Clean, modular codebase for easy customisation
+- Clean, modular codebase for easy customization
 - Advanced CLI-based client
 - Minimal memory and storage footprint
-- Synchronise in hours, not days with Warp Sync
+- Synchronize in hours, not days with Warp Sync
 - Modular for light integration into your service or product
 
 ## 2. Technical Overview <a id="chapter-002"></a>
